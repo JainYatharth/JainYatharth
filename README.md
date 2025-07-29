@@ -1,9 +1,13 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Hey%20there!%20I'm-Yatharth Jain-00D1FF?style=for-the-badge&logo=github" alt="Welcome Badge" />
+  <img src="https://img.shields.io/badge/Hey%20there-00D1FF?style=for-the-badge&logo=github" alt="Welcome Badge" />
 </p>
 
-<h1 align="center">🚀 Tech Enthusiast | Full-Stack Developer | AI Explorer</h1>
+<h1 align="center">I'm Yatharth Jain</h1>
+
+<p align="center">
+  🚀 Tech Enthusiast | Full-Stack Developer | AI Explorer
+</p>
 
 <p align="center">
   <em>Building intelligent web apps that simplify lives | B.Tech @ NSUT ECE'26</em><br/>
@@ -68,15 +72,10 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 My Noteworthy Repos
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JainYatharth&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JainYatharth&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainYatharth&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+[![Talent Vault](https://img.shields.io/badge/-TalentVault-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JainYatharth/TalentVault)
+[![GreenLoop](https://img.shields.io/badge/-GreenLoop-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JainYatharth/GreenLoop)
 
 ---
 
