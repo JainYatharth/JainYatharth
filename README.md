@@ -90,5 +90,9 @@
 ---
 
 <div align="center">
-<a href="https://github.com/JainYatharth">Yatharth Jain</a>
+  <sub>Built on caffeine, curiosity, and lots of console.logs() — <a href="https://github.com/JainYatharth">Yatharth Jain</a></sub>
+</div>
+
+<div align="center">
+
 </div>
